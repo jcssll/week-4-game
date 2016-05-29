@@ -1,6 +1,18 @@
-body {
-	background-image: url("asset/images/background.jpg");
+
+
+body 
+{
+	background: url(../images/background.jpg);
+	opacity:20;
+
+
 }
+
 p {
-	font-size: 15px
+	font-size: 15px;
+	font-color: yellow;
+}
+
+.rules {
+	text-align: left;
 }
